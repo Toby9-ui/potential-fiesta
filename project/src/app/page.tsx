@@ -122,7 +122,7 @@ export default function Home() {
             </div>
             <div className="flex items-center text-white">
               <MapPin className="w-6 h-6 mr-2" />
-              <span className="text-lg font-semibold">Find us: 123 Artisan Way, Craft District</span>
+              <span className="text-lg font-semibold">Find us: 206 Brighton Road , Craft District</span>
             </div>
           </div>
         </div>
