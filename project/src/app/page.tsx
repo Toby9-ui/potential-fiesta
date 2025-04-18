@@ -161,8 +161,8 @@ export default function Home() {
               <ul className="space-y-2 text-gray-400">
                 <li>020 8668 0680</li>
                 <li>info@woodandstone.com</li>
-                <li>123 Artisan Way</li>
-                <li>Craft District, CD 12345</li>
+                <li>206 Brighton Road</li>
+                <li>Couldon-London CR5 2NF</li>
               </ul>
             </div>
           </div>
